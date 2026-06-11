@@ -43,7 +43,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/RomanaIdressEkfa/RomanaIdressEkfa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/RomanaIdressEkfa/RomanaIdressEkfa/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 </div>
